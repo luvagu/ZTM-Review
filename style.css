@@ -1,0 +1,16 @@
+body {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 2em;
+    text-align: center;
+    text-transform: uppercase;
+    background: linear-gradient(to right,red, yellow);
+}
+
+button {
+    border-radius: 60%;
+    padding: 20px;
+    font-weight: bold;
+    font-family: fantasy;
+    box-shadow: 4px 5px 10px #453542;
+    cursor: pointer;
+}
